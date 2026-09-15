@@ -40,23 +40,24 @@ Everything below runs in an isolated, host-only virtualized lab — Kali as the 
 
 ## `~/skills`
 
-![Networking](https://img.shields.io/badge/Networking-Subnetting_|_VLANs_|_NAT_|_ACLs_|_OSPF/RIP/BGP-0d1117?style=for-the-badge&logo=cisco&logoColor=00ff41&labelColor=0d1117)
-![OS](https://img.shields.io/badge/Systems-Linux(Kali/Debian/RHEL)_|_Windows_Server_|_AD-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=0d1117)
-![Offensive](https://img.shields.io/badge/Offensive-Recon_|_Enumeration_|_Exploitation_|_Post--Exploitation-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=0d1117)
-![WebSec](https://img.shields.io/badge/Web_Security-OWASP_Top_10_|_DAST_|_Manual_Validation-0d1117?style=for-the-badge&logo=owasp&logoColor=00ff41&labelColor=0d1117)
-![SOC](https://img.shields.io/badge/SOC-SIEM_|_Sysmon_|_Suricata_|_Alert_Triage_|_MITRE_ATT%26CK-0d1117?style=for-the-badge&logo=elastic&logoColor=00ff41&labelColor=0d1117)
+![Networking](https://img.shields.io/badge/Networking-Subnetting_|_VLANs_|_NAT_|_ACLs_|_OSPF/RIP/BGP-161b22?style=for-the-badge&logo=cisco&logoColor=00ff41&labelColor=161b22)
+![OS](https://img.shields.io/badge/Systems-Linux(Kali/Debian/RHEL)_|_Windows_Server_|_AD-161b22?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=161b22)
+![Offensive](https://img.shields.io/badge/Offensive-Recon_|_Enumeration_|_Exploitation_|_Post--Exploitation-161b22?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=161b22)
+![WebSec](https://img.shields.io/badge/Web_Security-OWASP_Top_10_|_DAST_|_Manual_Validation-161b22?style=for-the-badge&logo=owasp&logoColor=00ff41&labelColor=161b22)
+![SOC](https://img.shields.io/badge/SOC-SIEM_|_Sysmon_|_Suricata_|_Alert_Triage_|_MITRE_ATT%26CK-161b22?style=for-the-badge&logo=elastic&logoColor=00ff41&labelColor=161b22)
 
 **Tools:**
 
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00ff41)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=00ff41)
-![Burp](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=00ff41)
-![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00ff41)
-![Wazuh](https://img.shields.io/badge/Wazuh-0d1117?style=flat-square)
-![Suricata](https://img.shields.io/badge/Suricata-0d1117?style=flat-square)
+![Nmap](https://img.shields.io/badge/%F0%9F%94%8D_Nmap-161b22?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-161b22?style=flat-square&logo=wireshark&logoColor=00ff41)
+![Metasploit](https://img.shields.io/badge/Metasploit-161b22?style=flat-square&logo=metasploit&logoColor=00ff41)
+![Burp](https://img.shields.io/badge/Burp_Suite-161b22?style=flat-square&logo=burpsuite&logoColor=00ff41)
+![Kali](https://img.shields.io/badge/Kali_Linux-161b22?style=flat-square&logo=kalilinux&logoColor=00ff41)
+![Wazuh](https://img.shields.io/badge/%F0%9F%9B%A1_Wazuh-161b22?style=flat-square)
+![Suricata](https://img.shields.io/badge/%F0%9F%93%A1_Suricata-161b22?style=flat-square)
+![Ettercap](https://img.shields.io/badge/%E2%9A%A1_Ettercap-161b22?style=flat-square)
 
-`Nmap · Gobuster · Shodan · SearchSploit · Metasploit/Meterpreter · John the Ripper · Hydra · Nessus · OpenVAS/Greenbone · OWASP ZAP · Burp Suite · Wireshark · Lynis · Aircrack-ng`
+`Nmap · Gobuster · Shodan · SearchSploit · Metasploit/Meterpreter · John the Ripper · Hydra · Nessus · OpenVAS/Greenbone · OWASP ZAP · Burp Suite · Wireshark · Ettercap · Lynis · Aircrack-ng`
 
 <br>
 
@@ -107,6 +108,37 @@ Everything below runs in an isolated, host-only virtualized lab — Kali as the 
 [+] AI-Assisted Security Tooling
     HexStrike AI & Pentest-AI (PT-AI) — MCP-driven offensive tool orchestration,
     150+ modules, used strictly in authorized lab environments
+
+[+] ARP Poisoning / MITM Lab — Ettercap + Wireshark
+    Topology: Kali (attacker) · Windows 7 (victim 1) · Windows 10 (victim 2) — isolated host-only network
+
+    Baseline:
+    - Recorded IPv4 + MAC for both Windows hosts (ipconfig /all) and Kali's eth0 (ifconfig)
+    - Verified clean ARP state on both victims (arp -a) — each held the other's true MAC, no Kali entry
+    - Confirmed baseline reachability with ICMP between victims (no poisoning yet)
+
+    Attack:
+    - Launched Ettercap (GUI mode) on Kali, sniffing on eth0
+    - Performed a host scan, identified both Windows machines from the host list
+    - Assigned Win7 → Target 1, Win10 → Target 2
+    - Enabled IP forwarding on Kali (net.ipv4.ip_forward = 1) so poisoned traffic would route
+      through the attacker instead of black-holing
+    - Launched MITM → ARP Poisoning attack
+
+    Validation:
+    - Re-checked arp -a on both victims — each host's ARP table now resolved the other's IP
+      to Kali's MAC address, confirming successful cache poisoning
+    - Started a live Wireshark capture on Kali's eth0
+    - Generated ICMP traffic between the two Windows hosts and observed it transiting through
+      the attacker, visible directly in the Wireshark capture — confirming the classic ARP
+      poisoning outcome: two hosts believing they're talking directly to each other while all
+      traffic is silently relayed (and inspectable) through the attacker in the middle
+
+    Takeaway: demonstrates the core weakness ARP exploits — no authentication on ARP replies —
+    and the practical mechanics of a Layer 2 MITM: poison → verify cache corruption → enable
+    forwarding to stay transparent → intercept with a packet analyzer. Also reinforces the blue-team
+    angle: this exact pattern (unsolicited/gratuitous ARP replies, duplicate MAC-to-IP mappings)
+    is what ARP-spoofing detection rules in an IDS/SIEM are built to catch.
 ```
 
 <br>

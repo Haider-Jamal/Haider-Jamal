@@ -48,14 +48,14 @@ Everything below runs in an isolated, host-only virtualized lab — Kali as the 
 
 **Tools:**
 
-![Nmap](https://img.shields.io/badge/%F0%9F%94%8D_Nmap-161b22?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-161b22?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjQxIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMSIgY3k9IjExIiByPSI3Ij48L2NpcmNsZT48bGluZSB4MT0iMjEiIHkxPSIyMSIgeDI9IjE2IiB5Mj0iMTYiPjwvbGluZT48L3N2Zz4K)
 ![Wireshark](https://img.shields.io/badge/Wireshark-161b22?style=flat-square&logo=wireshark&logoColor=00ff41)
 ![Metasploit](https://img.shields.io/badge/Metasploit-161b22?style=flat-square&logo=metasploit&logoColor=00ff41)
 ![Burp](https://img.shields.io/badge/Burp_Suite-161b22?style=flat-square&logo=burpsuite&logoColor=00ff41)
 ![Kali](https://img.shields.io/badge/Kali_Linux-161b22?style=flat-square&logo=kalilinux&logoColor=00ff41)
-![Wazuh](https://img.shields.io/badge/%F0%9F%9B%A1_Wazuh-161b22?style=flat-square)
-![Suricata](https://img.shields.io/badge/%F0%9F%93%A1_Suricata-161b22?style=flat-square)
-![Ettercap](https://img.shields.io/badge/%E2%9A%A1_Ettercap-161b22?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-161b22?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjQxIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMjJzOC00IDgtMTBWNWwtOC0zLTggM3Y3YzAgNiA4IDEwIDggMTB6Ij48L3BhdGg+PC9zdmc+Cg==)
+![Suricata](https://img.shields.io/badge/Suricata-161b22?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjQxIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxLjUiIGZpbGw9IiMwMGZmNDEiPjwvY2lyY2xlPjxwYXRoIGQ9Ik0xNi4yIDcuOGE2IDYgMCAwIDEgMCA4LjRNNy44IDcuOGE2IDYgMCAwIDAgMCA4LjRNMTkgNWExMCAxMCAwIDAgMSAwIDE0TTUgNWExMCAxMCAwIDAgMCAwIDE0Ij48L3BhdGg+PC9zdmc+Cg==)
+![Ettercap](https://img.shields.io/badge/Ettercap-161b22?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjQxIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWxpbmUgcG9pbnRzPSIyMiAxMiAxOCAxMiAxNSAyMSA5IDMgNiAxMiAyIDEyIj48L3BvbHlsaW5lPjwvc3ZnPgo=)
 
 `Nmap · Gobuster · Shodan · SearchSploit · Metasploit/Meterpreter · John the Ripper · Hydra · Nessus · OpenVAS/Greenbone · OWASP ZAP · Burp Suite · Wireshark · Ettercap · Lynis · Aircrack-ng`
 

@@ -44,16 +44,17 @@ Everything below runs in an isolated, host-only virtualized lab — Kali as the 
 ![OS](https://img.shields.io/badge/Systems-Linux(Kali/Debian/RHEL)_|_Windows_Server_|_AD-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=0d1117)
 ![Offensive](https://img.shields.io/badge/Offensive-Recon_|_Enumeration_|_Exploitation_|_Post--Exploitation-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=0d1117)
 ![WebSec](https://img.shields.io/badge/Web_Security-OWASP_Top_10_|_DAST_|_Manual_Validation-0d1117?style=for-the-badge&logo=owasp&logoColor=00ff41&labelColor=0d1117)
-![SOC](https://img.shields.io/badge/SOC-SIEM_|_Sysmon_|_Alert_Triage_|_MITRE_ATT%26CK-0d1117?style=for-the-badge&logo=elastic&logoColor=00ff41&labelColor=0d1117)
+![SOC](https://img.shields.io/badge/SOC-SIEM_|_Sysmon_|_Suricata_|_Alert_Triage_|_MITRE_ATT%26CK-0d1117?style=for-the-badge&logo=elastic&logoColor=00ff41&labelColor=0d1117)
 
 **Tools:**
 
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=00ff41)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00ff41)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=00ff41)
 ![Burp](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=00ff41)
 ![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00ff41)
-![Wazuh](https://img.shields.io/badge/Wazuh-0d1117?style=flat-square&logo=wazuh&logoColor=00ff41)
+![Wazuh](https://img.shields.io/badge/Wazuh-0d1117?style=flat-square)
+![Suricata](https://img.shields.io/badge/Suricata-0d1117?style=flat-square)
 
 `Nmap · Gobuster · Shodan · SearchSploit · Metasploit/Meterpreter · John the Ripper · Hydra · Nessus · OpenVAS/Greenbone · OWASP ZAP · Burp Suite · Wireshark · Lynis · Aircrack-ng`
 

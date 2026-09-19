@@ -15,7 +15,7 @@
 ## `~/about`
 
 ```yaml
-role:          Penetration Tester / Red Team (Aspiring)
+role:          Penetration Tester / Red Team 
 certification: CEH (Certified Ethical Hacker) — Corvit, NAVTTC — Completed
 also_studying: CCNP, Huawei (GNS3 / eNSP)
 focus:         Recon → Enumeration → Vulnerability Analysis → Exploitation → Post-Exploitation

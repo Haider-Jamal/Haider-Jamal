@@ -1,11 +1,25 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Haider%20Jamal&fontSize=45&fontColor=00ff41&fontAlignY=35&desc=Penetration%20Tester%20%7C%20CEH%20Certified&descAlignY=55&descColor=8b949e&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Haider%20Jamal&fontSize=45&fontColor=00ff41&fontAlignY=35&desc=Cybersecurity%20%7C%20CEH%20Certified&descAlignY=55&descColor=8b949e&animation=fadeIn)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3D%3E+Certified+Ethical+Hacker;Offense+%2B+Defense+%7C+Red+%26+Blue;Breaking+things+in+labs+to+learn+how+to+stop+them;nmap+-sV+-sC+-p-+target+%7C+tee+scan.log" alt="Typing SVG" /></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=haiderjamal&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+![Status](https://img.shields.io/badge/status-hunting_vulnerabilities-00ff41?style=flat-square&labelColor=161b22)
+![Focus](https://img.shields.io/badge/mode-lab_isolated-00ff41?style=flat-square&labelColor=161b22)
+
+</div>
+
+<br>
+
+<div align="center">
 
 ```
-[root@haider]─[~]$ whoami
-> Certified Ethical Hacker | Offensive Security Focus
-> Breaking things in isolated labs so I can explain exactly how — and how to fix it
+┌──────────────────────────────────────────────────────────┐
+│  root@haider:~# cat mission.txt                           │
+│  Recon → Enum → Exploit → Detect → Respond → Repeat        │
+│  Every attack I run, I can also explain how to catch.      │
+└──────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -15,24 +29,24 @@
 ## `~/about`
 
 ```yaml
-role:          Penetration Tester / Red Team 
+focus:         Cybersecurity — offensive (recon, exploitation) and defensive (detection, monitoring, response)
 certification: CEH (Certified Ethical Hacker) — Corvit, NAVTTC — Completed
 also_studying: CCNP, Huawei (GNS3 / eNSP)
-focus:         Recon → Enumeration → Vulnerability Analysis → Exploitation → Post-Exploitation
-philosophy:    Labs > theory. Evidence > claims. Every exploit gets a remediation.
+philosophy:    Labs > theory. Evidence > claims. Every attack I run, I can also explain how to catch.
 ```
 
 <br>
 
 ## `~/lab-infrastructure`
 
-Everything below runs in an isolated, host-only virtualized lab — Kali as the attack box, Windows/Metasploitable2 as intentionally vulnerable targets, never against anything I don't own or have authorization for.
+Everything below runs in an isolated, host-only virtualized lab — Kali as the attack box, Metasploitable2/Windows as intentionally vulnerable targets, Wazuh as the monitoring layer, never against anything I don't own or have authorization for.
 
 | Layer | Stack |
 |---|---|
 | **Virtualization** | VMware Workstation, EVE-NG, GNS3, Cisco Packet Tracer |
 | **Attack box** | Kali Linux |
 | **Targets** | Metasploitable 2, Windows 7/10/11 VMs (XAMPP-simulated services), Cisco 3640 (GNS3) |
+| **Monitoring/SIEM** | Wazuh (Rocky Linux) |
 | **Networking gear (virtual)** | Cisco routers/switches (IOS), HSRP/VRRP/GLBP labs |
 
 <br>
@@ -40,27 +54,27 @@ Everything below runs in an isolated, host-only virtualized lab — Kali as the 
 ## `~/skills`
 
 ![Networking](https://img.shields.io/badge/Networking-Subnetting_|_VLANs_|_NAT_|_ACLs_|_OSPF/RIP/BGP-161b22?style=for-the-badge&logo=cisco&logoColor=00ff41&labelColor=161b22)
-![OS](https://img.shields.io/badge/Systems-Linux(Kali/Debian/RHEL)_|_Windows_Server_|_AD-161b22?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=161b22)
+![Systems](https://img.shields.io/badge/Systems-Linux(Kali/Debian/RHEL)_|_Windows_Server_|_AD-161b22?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=161b22)
 ![Offensive](https://img.shields.io/badge/Offensive-Recon_|_Enumeration_|_Exploitation_|_Post--Exploitation-161b22?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=161b22)
+![Defensive](https://img.shields.io/badge/Defensive-SIEM_|_Log_Analysis_|_Alert_Triage_|_Incident_Response-161b22?style=for-the-badge&logo=wazuh&logoColor=00ff41&labelColor=161b22)
 ![WebSec](https://img.shields.io/badge/Web_Security-OWASP_Top_10_|_DAST_|_Manual_Validation-161b22?style=for-the-badge&logo=owasp&logoColor=00ff41&labelColor=161b22)
 ![Net](https://img.shields.io/badge/Network_Attacks-ARP_Poisoning_|_MITM_|_Packet_Analysis-161b22?style=for-the-badge&logo=wireshark&logoColor=00ff41&labelColor=161b22)
 
 **Tools:**
 
-![Nmap](https://img.shields.io/badge/Nmap-161b22?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjQxIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMSIgY3k9IjExIiByPSI3Ij48L2NpcmNsZT48bGluZSB4MT0iMjEiIHkxPSIyMSIgeDI9IjE2IiB5Mj0iMTYiPjwvbGluZT48L3N2Zz4K)
-![Wireshark](https://img.shields.io/badge/Wireshark-161b22?style=flat-square&logo=wireshark&logoColor=00ff41)
-![Metasploit](https://img.shields.io/badge/Metasploit-161b22?style=flat-square&logo=metasploit&logoColor=00ff41)
-![Burp](https://img.shields.io/badge/Burp_Suite-161b22?style=flat-square&logo=burpsuite&logoColor=00ff41)
-![Kali](https://img.shields.io/badge/Kali_Linux-161b22?style=flat-square&logo=kalilinux&logoColor=00ff41)
-![Ettercap](https://img.shields.io/badge/Ettercap-161b22?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjQxIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWxpbmUgcG9pbnRzPSIyMiAxMiAxOCAxMiAxNSAyMSA5IDMgNiAxMiAyIDEyIj48L3BvbHlsaW5lPjwvc3ZnPgo=)
+`Nmap · Gobuster · Shodan · SearchSploit · Metasploit/Meterpreter · John the Ripper · Hydra · Nessus · OpenVAS/Greenbone · OWASP ZAP · Burp Suite · Wireshark · Ettercap · Lynis · Aircrack-ng · Wazuh (SIEM/EDR) · Sysmon`
 
-`Nmap · Gobuster · Shodan · SearchSploit · Metasploit/Meterpreter · John the Ripper · Hydra · Nessus · OpenVAS/Greenbone · OWASP ZAP · Burp Suite · Wireshark · Ettercap · Lynis · Aircrack-ng`
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,docker,aws,azure,wireshark,kali&theme=dark" />
+
+</div>
 
 <br>
 
 ## `~/evidence-portfolio`
 
-> Documented, reproducible offensive work — not just "I installed the tool."
+> Documented, reproducible work on both sides — not just "I installed the tool."
 
 ```
 [+] Metasploitable 2 — Nessus Vulnerability Assessment
@@ -68,7 +82,7 @@ Everything below runs in an isolated, host-only virtualized lab — Kali as the 
     Critical: Apache PHP-CGI RCE, Shellshock, bind-shell backdoor,
               phpMyAdmin SQLi exposure, UnrealIRCd backdoor, weak VNC creds
 
-[+] Metasploitable 2 — Controlled Exploitation & Pentest Report
+[+] Metasploitable 2 — Controlled Exploitation & Assessment Report
     - Bind shell backdoor (ingreslock/1524)  → root shell, validated via Nmap + netcat
     - UnrealIRCd 3.2.8.1 backdoor            → Meterpreter session, root access
     - VNC weak credential ("password")       → validated via Metasploit aux scanner
@@ -105,17 +119,25 @@ Everything below runs in an isolated, host-only virtualized lab — Kali as the 
 
     Takeaway: demonstrates the core weakness ARP exploits — no authentication on ARP replies —
     and the practical mechanics of a Layer 2 MITM: poison → verify cache corruption → enable
-    forwarding to stay transparent → intercept with a packet analyzer.
+    forwarding to stay transparent → intercept with a packet analyzer. Same lab doubles as a
+    detection exercise: this is exactly the traffic pattern a NIDS/ARP-watch rule should catch.
 
 [+] Network Forensics — Malware Delivery + C2 Investigation (PCAP)
     Victim requested /update.exe x4 over HTTP:8000 → outbound TCP:4444 to C2 host
     ~566KB transferred in <1s post-handshake, ~67s sustained bidirectional session
     Pattern consistent with staged Meterpreter payload + interactive C2
+    Analyzed purely from the defender's seat: identifying the delivery, staging, and
+    C2 beacon phases from packet capture alone.
 
 [+] Nessus / Wireshark — Windows Network Scan Analysis
     15,621 packets / ~16 min capture | ~623 TCP ports probed via SYN scan
     SMB/RPC enumeration (LSA, SAMR, share enum) + default SNMP "public" string found
     Correctly distinguished recon/enum activity from actual exploitation
+
+[+] Wazuh SIEM Deployment — Rocky Linux
+    Built a SIEM server from scratch (manager, indexer, dashboard) and onboarded endpoints
+    as agents to practice log collection, alert triage, and rule tuning — the monitoring
+    counterpart to the offensive labs above.
 
 [+] Cisco 3640 — Nessus Vulnerability Assessment (GNS3)
     Network-device-focused scan with full severity breakdown
@@ -131,8 +153,8 @@ Everything below runs in an isolated, host-only virtualized lab — Kali as the 
                      real target, uncovered internal subdomains (sonarqube/vpn/UAT) behind
                      real origin IPs missed by standard footprinting
 
-[+] AI-Assisted Offensive Tooling
-    HexStrike AI & pentest-ai (ptai) — MCP-driven offensive tool orchestration (150+ modules,
+[+] AI-Assisted Security Tooling
+    HexStrike AI & pentest-ai (ptai) — MCP-driven security tool orchestration (150+ modules,
     17 specialist agents), self-verifying scan/exploit findings, natural-language-driven
     recon and exploitation workflows — used strictly in authorized lab environments
 ```
@@ -152,8 +174,9 @@ Hands-on Cisco IOS labs, not just theory:
 ```diff
 + CEH (Certified Ethical Hacker) — Completed, Corvit
 + Learning CCNP + Huawei configuration (GNS3 / eNSP)
-+ Sharpening exploitation and post-exploitation workflows on new lab targets
-+ Preparing for Penetration Tester / Red Team entry-level roles
++ Building out a Wazuh SIEM lab for detection/monitoring practice
++ Sharpening both exploitation workflows and the detections that catch them
++ Preparing for entry-level cybersecurity roles across SOC and offensive-adjacent work
 ```
 
 <br>
@@ -161,6 +184,13 @@ Hands-on Cisco IOS labs, not just theory:
 <div align="center">
 
 `Everything above was performed in isolated, authorized lab environments — Metasploitable2, self-hosted VMs, and virtual network topologies. No unauthorized targets.`
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CEH-Certified-00ff41?style=for-the-badge&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Ethics-Authorized_Testing_Only-00ff41?style=for-the-badge&labelColor=161b22" />
+
+<br><br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer)
 

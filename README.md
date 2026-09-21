@@ -67,10 +67,9 @@ Everything below runs in an isolated, host-only virtualized lab — Kali as the 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,aws,azure,kali&theme=dark" />
-
-<img src="https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&logo=wireshark&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&logo=metasploit&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Burp_Suite-161b22?style=for-the-badge&logo=burpsuite&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/-161b22?style=flat-square&logo=wireshark&logoColor=00ff41&logoSize=auto" height="48" />
+<img src="https://img.shields.io/badge/-161b22?style=flat-square&logo=metasploit&logoColor=00ff41&logoSize=auto" height="48" />
+<img src="https://img.shields.io/badge/-161b22?style=flat-square&logo=burpsuite&logoColor=00ff41&logoSize=auto" height="48" />
 
 </div>
 

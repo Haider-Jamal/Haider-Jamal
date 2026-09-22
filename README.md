@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=50&lines=Haider+Jamal;Cyber+Security+Engineer;SOC+Analyst+%7C+Blue+Team;CEH+Certified" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=50&lines=Haider+Jamal;Cyber+Security+Engineer;SOC+Analyst+%7C+Blue+Team;Red+Team+%7C+Offensive+Security;CEH+Certified" alt="Typing SVG" />
 
 </div>
 
@@ -10,12 +10,12 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgMjAwIiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjIwMCI+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImJnIiBjeD0iNTAlIiBjeT0iNTAlIiByPSI3NSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGQxYTBmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzBkMTExNyIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ic3dlZXBHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwMGZmNDEiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMGZmNDEiIHN0b3Atb3BhY2l0eT0iMC41NSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iMjAwIiBmaWxsPSJ1cmwoI2JnKSIvPgoKICA8IS0tIHJhZGFyIGNlbnRlciAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMDAsMTAwKSI+CiAgICA8Y2lyY2xlIHI9IjgwIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGZmNDEiIHN0cm9rZS1vcGFjaXR5PSIwLjM1IiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDxjaXJjbGUgcj0iNTgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwZmY0MSIgc3Ryb2tlLW9wYWNpdHk9IjAuMjgiIHN0cm9rZS13aWR0aD0iMSIvPgogICAgPGNpcmNsZSByPSIzNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjQxIiBzdHJva2Utb3BhY2l0eT0iMC4yMiIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgICA8bGluZSB4MT0iLTgwIiB5MT0iMCIgeDI9IjgwIiB5Mj0iMCIgc3Ryb2tlPSIjMDBmZjQxIiBzdHJva2Utb3BhY2l0eT0iMC4xOCIvPgogICAgPGxpbmUgeDE9IjAiIHkxPSItODAiIHgyPSIwIiB5Mj0iODAiIHN0cm9rZT0iIzAwZmY0MSIgc3Ryb2tlLW9wYWNpdHk9IjAuMTgiLz4KCiAgICA8IS0tIHJvdGF0aW5nIHN3ZWVwIHdlZGdlIC0tPgogICAgPGc+CiAgICAgIDxwYXRoIGQ9Ik0gMCAwIEwgODAgMCBBIDgwIDgwIDAgMCAxIDU2LjYgNTYuNiBaIiBmaWxsPSJ1cmwoI3N3ZWVwR3JhZCkiLz4KICAgICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJyb3RhdGUiIGZyb209IjAgMCAwIiB0bz0iMzYwIDAgMCIgZHVyPSIzcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvZz4KCiAgICA8IS0tIGJsaXBzIC0tPgogICAgPGNpcmNsZSBjeD0iMzAiIGN5PSItNDUiIHI9IjMiIGZpbGw9IiMwMGZmNDEiPgogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MTswIiBkdXI9IjIuNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9Ii01NSIgY3k9IjIwIiByPSIzIiBmaWxsPSIjMDBmZjQxIj4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MCIgZHVyPSIxLjhzIiBiZWdpbj0iMC42cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiLz4KICAgIDwvY2lyY2xlPgogICAgPGNpcmNsZSBjeD0iNDUiIGN5PSIzNSIgcj0iMyIgZmlsbD0iIzAwZmY0MSI+CiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzAiIGR1cj0iMi4xcyIgYmVnaW49IjEuMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICA8L2NpcmNsZT4KICAgIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIzIiBmaWxsPSIjMDBmZjQxIi8+CiAgPC9nPgoKICA8IS0tIHJpZ2h0LXNpZGUgbGFiZWwgYmxvY2sgLS0+CiAgPGcgZm9udC1mYW1pbHk9IkZpcmEgQ29kZSwgbW9ub3NwYWNlIiBmaWxsPSIjMDBmZjQxIj4KICAgIDx0ZXh0IHg9IjIxMCIgeT0iNDAiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSJib2xkIj5WSVNVQUwuTUFQIDo6IFRIUkVBVF9TQ0FOPC90ZXh0PgogICAgPHRleHQgeD0iMjEwIiB5PSI2MiIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzhiOTQ5ZSI+c3RhdHVzIDogc3dlZXBpbmc8L3RleHQ+CiAgICA8dGV4dCB4PSIyMTAiIHk9IjgwIiBmb250LXNpemU9IjExIiBmaWxsPSIjOGI5NDllIj50YXJnZXRzX2ZsYWdnZWQgOiAzPC90ZXh0PgogICAgPHRleHQgeD0iMjEwIiB5PSI5OCIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzhiOTQ5ZSI+bW9kZSA6IHNvYyAvIGJsdWUtdGVhbTwvdGV4dD4KICAgIDx0ZXh0IHg9IjIxMCIgeT0iMTUwIiBmb250LXNpemU9IjEwIiBmaWxsPSIjNDQ0Ij5mcHMgMTYwMDAgIMK3ICBwbHRmOiByZW1vdGU8L3RleHQ+CiAgPC9nPgoKICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjQxIiBzdHJva2Utb3BhY2l0eT0iMC4yNSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPgo=" alt="Animated radar sweep" width="400"/>
+<img src="assets/radar-sweep.svg" alt="Animated radar sweep" width="400"/>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NjAgMzQwIiB3aWR0aD0iNDYwIiBoZWlnaHQ9IjM0MCI+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImJnMiIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNzUlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzBkMWEwZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwZDExMTciLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI0NjAiIGhlaWdodD0iMzQwIiBmaWxsPSJ1cmwoI2JnMikiLz4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNDYwIiBoZWlnaHQ9IjM0MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjQxIiBzdHJva2Utb3BhY2l0eT0iMC4yNSIgc3Ryb2tlLXdpZHRoPSIxIi8+CgogIDxsaW5lIHgxPSIwIiB5MT0iMzQiIHgyPSI0NjAiIHkyPSIzNCIgc3Ryb2tlPSIjMDBmZjQxIiBzdHJva2Utb3BhY2l0eT0iMC4yNSIvPgogIDx0ZXh0IHg9IjE0IiB5PSIyMyIgZm9udC1mYW1pbHk9IkZpcmEgQ29kZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzAwZmY0MSI+U1lTVEVNLklORk88L3RleHQ+CiAgPGNpcmNsZSBjeD0iNDI0IiBjeT0iMTkiIHI9IjQiIGZpbGw9IiMwMGZmNDEiPgogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIxOzAuMjU7MSIgZHVyPSIxLjRzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvY2lyY2xlPgogIDx0ZXh0IHg9IjQzNCIgeT0iMjMiIGZvbnQtZmFtaWx5PSJGaXJhIENvZGUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzAwZmY0MSI+TElWRTwvdGV4dD4KCiAgPGcgZm9udC1mYW1pbHk9IkZpcmEgQ29kZSwgbW9ub3NwYWNlIiBmaWxsPSIjYzlkMWQ5Ij4KICAgIDx0ZXh0IHg9IjIwIiB5PSI1NS4wIiBmb250LXNpemU9IjExLjUiPlN1YmplY3QgICAgICA6IEhhaWRlciBKYW1hbAogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MTsxOzAiIGtleVRpbWVzPSIwOzAuMDM7MC45MjsxIiBkdXI9IjE0cyIgYmVnaW49IjAuMHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBmaWxsPSJmcmVlemUiLz4KICAgIDwvdGV4dD4KICAgIDx0ZXh0IHg9IjIwIiB5PSI3MC41IiBmb250LXNpemU9IjExLjUiPlJvbGUgICAgICAgICA6IEN5YmVyIFNlY3VyaXR5IEVuZ2luZWVyCiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzE7MCIga2V5VGltZXM9IjA7MC4wMzswLjkyOzEiIGR1cj0iMTRzIiBiZWdpbj0iMC4xOHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBmaWxsPSJmcmVlemUiLz4KICAgIDwvdGV4dD4KICAgIDx0ZXh0IHg9IjIwIiB5PSI4Ni4wIiBmb250LXNpemU9IjExLjUiPiAgICAgICAgICAgICAgIChCbHVlIFRlYW0pCiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzE7MCIga2V5VGltZXM9IjA7MC4wMzswLjkyOzEiIGR1cj0iMTRzIiBiZWdpbj0iMC4zNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBmaWxsPSJmcmVlemUiLz4KICAgIDwvdGV4dD4KICAgIDx0ZXh0IHg9IjIwIiB5PSIxMDEuNSIgZm9udC1zaXplPSIxMS41Ij5PcmlnaW4gICAgICAgOiBMYWhvcmUsIFBLCiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzE7MCIga2V5VGltZXM9IjA7MC4wMzswLjkyOzEiIGR1cj0iMTRzIiBiZWdpbj0iMC41NHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBmaWxsPSJmcmVlemUiLz4KICAgIDwvdGV4dD4KICAgIDx0ZXh0IHg9IjIwIiB5PSIxMTcuMCIgZm9udC1zaXplPSIxMS41Ij5TdGF0dXMgICAgICAgOiBPcGVuIHRvIHJvbGVzCiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzE7MCIga2V5VGltZXM9IjA7MC4wMzswLjkyOzEiIGR1cj0iMTRzIiBiZWdpbj0iMC43MnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBmaWxsPSJmcmVlemUiLz4KICAgIDwvdGV4dD4KICAgIDx0ZXh0IHg9IjIwIiB5PSIxMzIuNSIgZm9udC1zaXplPSIxMS41Ij5DZXJ0ICAgICAgICAgOiBDRUgg4oCUIENvbXBsZXRlZAogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MTsxOzAiIGtleVRpbWVzPSIwOzAuMDM7MC45MjsxIiBkdXI9IjE0cyIgYmVnaW49IjAuOXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBmaWxsPSJmcmVlemUiLz4KICAgIDwvdGV4dD4KICAgIDx0ZXh0IHg9IjIwIiB5PSIxNjMuNSIgZm9udC1zaXplPSIxMS41Ij5Db3JlLlNJRU0gICAgOiBXYXp1aCwgU3lzbW9uLCBTdXJpY2F0YQogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MTsxOzAiIGtleVRpbWVzPSIwOzAuMDM7MC45MjsxIiBkdXI9IjE0cyIgYmVnaW49IjEuMjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZmlsbD0iZnJlZXplIi8+CiAgICA8L3RleHQ+CiAgICA8dGV4dCB4PSIyMCIgeT0iMTc5LjAiIGZvbnQtc2l6ZT0iMTEuNSI+Q29yZS5EZXRlY3QgIDogU2lnbWEsIE1JVFJFIEFUVCZhbXA7Q0sKICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MTswIiBrZXlUaW1lcz0iMDswLjAzOzAuOTI7MSIgZHVyPSIxNHMiIGJlZ2luPSIxLjQ0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGZpbGw9ImZyZWV6ZSIvPgogICAgPC90ZXh0PgogICAgPHRleHQgeD0iMjAiIHk9IjE5NC41IiBmb250LXNpemU9IjExLjUiPkNvcmUuT2ZmZW5zZSA6IE1ldGFzcGxvaXQsIEFSUC9NSVRNLAogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MTsxOzAiIGtleVRpbWVzPSIwOzAuMDM7MC45MjsxIiBkdXI9IjE0cyIgYmVnaW49IjEuNjJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZmlsbD0iZnJlZXplIi8+CiAgICA8L3RleHQ+CiAgICA8dGV4dCB4PSIyMCIgeT0iMjEwLjAiIGZvbnQtc2l6ZT0iMTEuNSI+ICAgICAgICAgICAgICAgTmVzc3VzLCBaQVAKICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MTswIiBrZXlUaW1lcz0iMDswLjAzOzAuOTI7MSIgZHVyPSIxNHMiIGJlZ2luPSIxLjhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZmlsbD0iZnJlZXplIi8+CiAgICA8L3RleHQ+CiAgICA8dGV4dCB4PSIyMCIgeT0iMjI1LjUiIGZvbnQtc2l6ZT0iMTEuNSI+Q29yZS5OZXR3b3JrIDogQ2lzY28gSU9TLCBWTEFOcywgTkFUCiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzE7MCIga2V5VGltZXM9IjA7MC4wMzswLjkyOzEiIGR1cj0iMTRzIiBiZWdpbj0iMS45OHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBmaWxsPSJmcmVlemUiLz4KICAgIDwvdGV4dD4KICAgIDx0ZXh0IHg9IjIwIiB5PSIyNDEuMCIgZm9udC1zaXplPSIxMS41Ij5Db3JlLkZvcmVuc2ljczogV2lyZXNoYXJrLCBQQ0FQCiAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzE7MCIga2V5VGltZXM9IjA7MC4wMzswLjkyOzEiIGR1cj0iMTRzIiBiZWdpbj0iMi4xNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBmaWxsPSJmcmVlemUiLz4KICAgIDwvdGV4dD4KICAgIDx0ZXh0IHg9IjIwIiB5PSIyNTYuNSIgZm9udC1zaXplPSIxMS41Ij5Db3JlLk9TSU5UICAgOiBTdWJmaW5kZXIsIGRuc2VudW0KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MTswIiBrZXlUaW1lcz0iMDswLjAzOzAuOTI7MSIgZHVyPSIxNHMiIGJlZ2luPSIyLjM0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGZpbGw9ImZyZWV6ZSIvPgogICAgPC90ZXh0PgogICAgPHRleHQgeD0iMjAiIHk9IjI4Ny41IiBmb250LXNpemU9IjExLjUiPkdyaWQuR2l0SHViICA6IGdpdGh1Yi5jb20vbWFuZ28wMHkKICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzE7MTswIiBrZXlUaW1lcz0iMDswLjAzOzAuOTI7MSIgZHVyPSIxNHMiIGJlZ2luPSIyLjdzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZmlsbD0iZnJlZXplIi8+CiAgICA8L3RleHQ+CiAgICA8dGV4dCB4PSIyMCIgeT0iMzAzLjAiIGZvbnQtc2l6ZT0iMTEuNSI+R3JpZC5MaW5rZWRJbjogL2luL2hhaWRlci1qYW1hbAogICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MTsxOzAiIGtleVRpbWVzPSIwOzAuMDM7MC45MjsxIiBkdXI9IjE0cyIgYmVnaW49IjIuODhzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZmlsbD0iZnJlZXplIi8+CiAgICA8L3RleHQ+CiAgPC9nPgoKICA8bGluZSB4MT0iMCIgeTE9IjMxMC41IiB4Mj0iNDYwIiB5Mj0iMzEwLjUiIHN0cm9rZT0iIzAwZmY0MSIgc3Ryb2tlLW9wYWNpdHk9IjAuMjUiLz4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjMyNC41IiByPSI0IiBmaWxsPSIjMDBmZjQxIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDsxOzE7MCIga2V5VGltZXM9IjA7MC4wMzswLjkyOzEiIGR1cj0iMTRzIiBiZWdpbj0iMy4wNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBmaWxsPSJmcmVlemUiLz4KICA8L2NpcmNsZT4KICA8dGV4dCB4PSIzMiIgeT0iMzI4LjUiIGZvbnQtZmFtaWx5PSJGaXJhIENvZGUsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMS41IiBmaWxsPSIjMDBmZjQxIj5BTEwgU1lTVEVNUyBOT1JNQUw8L3RleHQ+Cjwvc3ZnPgo=" alt="Animated system info terminal" width="460"/>
+<img src="assets/system-terminal.svg" alt="Animated system info terminal" width="460"/>
 
 </td>
 </tr>
@@ -25,10 +25,8 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=900&height=35&lines=Detecting+what+I+once+had+to+exploit+to+understand;Turning+noisy+logs+into+signal" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/REPLACE_ME)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/mango00y)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mango00y&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&color=161b22&labelColor=161b22)](https://linkedin.com/in/REPLACE_ME)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&color=161b22&labelColor=161b22)](https://github.com/mango00y)
 
 </div>
 
@@ -67,34 +65,34 @@ Hi, I'm Haider - CEH certified out of Corvit, based in Lahore, working across bo
 
 **Detection & SOC**
 
-![Wazuh](https://img.shields.io/badge/Wazuh-161b22?style=for-the-badge)
-![Suricata](https://img.shields.io/badge/Suricata-161b22?style=for-the-badge)
-![Sysmon](https://img.shields.io/badge/Sysmon-161b22?style=for-the-badge)
-![Sigma](https://img.shields.io/badge/Sigma_Rules-161b22?style=for-the-badge)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-161b22?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/Wazuh-161b22?style=for-the-badge&color=161b22)
+![Suricata](https://img.shields.io/badge/Suricata-161b22?style=for-the-badge&color=161b22)
+![Sysmon](https://img.shields.io/badge/Sysmon-161b22?style=for-the-badge&color=161b22)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-161b22?style=for-the-badge&color=161b22)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-161b22?style=for-the-badge&color=161b22)
 
 **Offensive & Recon**
 
-![Metasploit](https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&logo=metasploit&logoColor=00ff41)
-![Burp](https://img.shields.io/badge/Burp_Suite-161b22?style=for-the-badge&logo=burpsuite&logoColor=00ff41)
-![Nmap](https://img.shields.io/badge/Nmap-161b22?style=for-the-badge)
-![Nessus](https://img.shields.io/badge/Nessus-161b22?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP_ZAP-161b22?style=for-the-badge&logo=owasp&logoColor=00ff41)
-![Ettercap](https://img.shields.io/badge/Ettercap-161b22?style=for-the-badge)
-![Hydra](https://img.shields.io/badge/Hydra-161b22?style=for-the-badge)
-![JohnTheRipper](https://img.shields.io/badge/John_the_Ripper-161b22?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&color=161b22)
+![Burp](https://img.shields.io/badge/Burp_Suite-161b22?style=for-the-badge&color=161b22)
+![Nmap](https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&color=161b22)
+![Nessus](https://img.shields.io/badge/Nessus-161b22?style=for-the-badge&color=161b22)
+![OWASP](https://img.shields.io/badge/OWASP_ZAP-161b22?style=for-the-badge&color=161b22)
+![Ettercap](https://img.shields.io/badge/Ettercap-161b22?style=for-the-badge&color=161b22)
+![Hydra](https://img.shields.io/badge/Hydra-161b22?style=for-the-badge&color=161b22)
+![JohnTheRipper](https://img.shields.io/badge/John_the_Ripper-161b22?style=for-the-badge&color=161b22)
 
 **Forensics & Analysis**
 
-![Wireshark](https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&logo=wireshark&logoColor=00ff41)
-![Lynis](https://img.shields.io/badge/Lynis-161b22?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&color=161b22)
+![Lynis](https://img.shields.io/badge/Lynis-161b22?style=for-the-badge&color=161b22)
 
 **Platform & Networking**
 
-![Kali](https://img.shields.io/badge/Kali_Linux-161b22?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
-![Cisco](https://img.shields.io/badge/Cisco_IOS-161b22?style=for-the-badge&logo=cisco&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=00ff41)
-![Windows](https://img.shields.io/badge/Windows_Server-161b22?style=for-the-badge&logo=windows&logoColor=00ff41)
+![Kali](https://img.shields.io/badge/Kali_Linux-161b22?style=for-the-badge&color=161b22)
+![Cisco](https://img.shields.io/badge/Cisco_IOS-161b22?style=for-the-badge&color=161b22)
+![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&color=161b22)
+![Windows](https://img.shields.io/badge/Windows_Server-161b22?style=for-the-badge&color=161b22)
 
 </div>
 
@@ -112,26 +110,14 @@ Hi, I'm Haider - CEH certified out of Corvit, based in Lahore, working across bo
 
 <br>
 
-## Numbers matter? ohhh yes.
-
-> Built as a static block instead of a live third-party widget - the public stats-API services (github-readme-stats.vercel.app and similar) are well documented to rate-limit and go down unpredictably since they run on shared free infrastructure. This never breaks. Swap in your real numbers whenever you check your GitHub profile - takes 30 seconds.
+## bugs found in the wild
 
 <div align="center">
 
-```
-+- GITHUB.STATS -------------------------------+
-|                                               |
-|  Public Repos     : REPLACE_ME               |
-|  Followers        : REPLACE_ME               |
-|  Total Stars      : REPLACE_ME               |
-|  Contributions(1y): REPLACE_ME               |
-|  Current Streak   : REPLACE_ME               |
-|                                               |
-|  Top Languages    : Python . Bash . YAML     |
-|                      (edit to match reality) |
-|                                               |
-+-----------------------------------------------+
-```
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2600&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=32&lines=Reported+Issue+%2329+in+pentest-ai+(ptai);Reported+Issue+%2335+in+pentest-ai+(ptai)" alt="Bug report typing SVG" />
+
+[![Issue #29](https://img.shields.io/badge/pentest--ai-%2329-161b22?style=for-the-badge&color=161b22)](https://github.com/mango00y/pentest-ai/issues/29)
+[![Issue #35](https://img.shields.io/badge/pentest--ai-%2335-161b22?style=for-the-badge&color=161b22)](https://github.com/mango00y/pentest-ai/issues/35)
 
 </div>
 

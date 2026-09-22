@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Haider+Jamal;SOC+Analyst+%7C+Blue+Team;CEH+Certified" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=50&lines=Haider+Jamal;Cyber+Security+Engineer;SOC+Analyst+%7C+Blue+Team;CEH+Certified" alt="Typing SVG" />
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2500&pause=1200&color=8B949E&center=true&vCenter=true&width=500&lines=Detecting+what+I+once+had+to+exploit+to+understand;Turning+noisy+logs+into+signal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=900&height=35&lines=Detecting+what+I+once+had+to+exploit+to+understand;Turning+noisy+logs+into+signal" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/REPLACE_ME)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/mango00y)
@@ -107,7 +107,7 @@ Hi, I'm Haider — a SOC Analyst on the way up, currently CEH certified out of C
 
 <div align="center">
 
-<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['SIEM+Detection','Incident+Response','Networking','OSINT+Recon','Forensics','Scripting'],datasets:[{label:'Skill+Level',data:[8,7,8,7,7,5],backgroundColor:'rgba(0,255,65,0.2)',borderColor:'rgb(0,255,65)',pointBackgroundColor:'rgb(0,255,65)'}]},options:{scales:{r:{angleLines:{color:'%23444'},grid:{color:'%23444'},pointLabels:{color:'%23ffffff',font:{size:11}},ticks:{display:false,beginAtZero:true,max:10},min:0,max:10}},plugins:{legend:{display:false}},backgroundColor:'transparent'}}&backgroundColor=transparent&width=420&height=320" alt="Skill radar chart" width="420"/>
+<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['SIEM+Detection','Incident+Response','Networking','OSINT+Recon','Forensics','Scripting'],datasets:[{label:'Skill+Level',data:[8,7,8,7,7,5],backgroundColor:'rgba(0,255,65,0.2)',borderColor:'rgb(0,255,65)',pointBackgroundColor:'rgb(0,255,65)'}]},options:{legend:{display:false},scale:{ticks:{display:false,beginAtZero:true,min:0,max:10,stepSize:2},pointLabels:{fontColor:'%23ffffff',fontSize:11},angleLines:{color:'%23444444'},gridLines:{color:'%23444444'}}}}&backgroundColor=transparent&width=420&height=320&devicePixelRatio=2" alt="Skill radar chart" width="420"/>
 
 <sub>Self-rated, out of 10 — replace the numbers with your own honest read before publishing</sub>
 

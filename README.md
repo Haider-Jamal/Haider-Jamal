@@ -1,130 +1,134 @@
+
+<!--
+  GitHub Profile README
+  Author: Haider-Jamal
+  Focus: Cybersecurity / Ethical Hacking
+-->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=50&lines=Haider+Jamal;Cyber+Security+Engineer;SOC+Analyst+%7C+Blue+Team;Red+Team+%7C+Offensive+Security;CEH+Certified" alt="Typing SVG" />
+# `root@haider-jamal:~$ whoami`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=180&section=header&text=HAIDER-JAMAL&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Ethical%20Hacking&descAlignY=55&descSize=18" width="100%"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haider-Jamal)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=Haider-Jamal&style=for-the-badge&color=238636)](https://github.com/Haider-Jamal)
 
 </div>
 
-<br>
+```bash
+┌──(haider㉿kali)-[~]
+└─$ cat about_me.txt
 
-<table>
-<tr>
-<td width="50%" valign="top">
+[+] Name       : Haider-Jamal
+[+] Role       : Cybersecurity / Ethical Hacking
+[+] Experience : Intermediate
+[+] Focus      : Offensive Security & Defensive Security
+[+] Mindset    : Learn • Test • Secure
+```
 
-<img src="assets/radar-sweep.svg" alt="Animated radar sweep" width="400"/>
+## 🧠 About Me
 
-</td>
-<td width="50%" valign="top">
+I'm Haider-Jamal, a cybersecurity enthusiast focused on
+ethical hacking, security testing, and continuous learning.
 
-<img src="assets/system-terminal.svg" alt="Animated system info terminal" width="460"/>
+My interests include understanding how systems work,
+identifying security weaknesses in authorized environments,
+and improving defensive security through practical research.
 
-</td>
-</tr>
-</table>
+```text
+> Explore.
+> Understand.
+> Test responsibly.
+> Secure systems.
+```
+
+## 🎯 Current Focus
+
+- 🔐 Web Application Security
+- 🐧 Linux & System Administration
+- 🌐 Network Security
+- 🐍 Python for Security Automation
+- 🧪 Vulnerability Research & Security Testing
+- 📚 Continuous Cybersecurity Learning
+
+## 🛠️ Tech Stack
+
+### Programming & Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Security & Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+> Update this stack to reflect the tools you actually use.
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=900&height=35&lines=Detecting+what+I+once+had+to+exploit+to+understand;Turning+noisy+logs+into+signal" alt="Typing SVG" />
+<img src="https://github-readme-stats.vercel.app/api?username=Haider-Jamal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&color=161b22&labelColor=161b22)](https://linkedin.com/in/REPLACE_ME)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&color=161b22&labelColor=161b22)](https://github.com/mango00y)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haider-Jamal&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
 </div>
 
-<br>
-
-## This is me :)
-
-Hi, I'm Haider - CEH certified out of Corvit, based in Lahore, working across both sides of the fence: I break things in isolated labs so I understand exactly how to detect and stop them.
-
-**Blue team / detection work:**
-- Built a home Wazuh + Sysmon + Suricata SOC stack from scratch (Manager, Indexer, Dashboard, multi-agent)
-- Tuned SIEM alert volume from **200 -> 12 alerts/day (94% reduction)** via custom rules and decoder logic, without losing true-positive coverage
-- Wrote a custom Sigma rule to close a LOLBin (Living-off-the-Land Binary) detection gap the default SIEM baseline missed
-- Documented 3 full incident-response cases end-to-end: attack simulation -> Wazuh detection -> MITRE ATT&CK technique mapping -> ticket escalation -> remediation
-- Correlated raw PCAPs against SIEM alerts to validate detections and extract real indicators of compromise (IOCs)
-- Converted OSINT recon findings into a risk-prioritized exposure report, mapped to exploitability and business impact
-
-**Red team / offensive work:**
-- Ran a full Nessus vulnerability assessment on Metasploitable2 - 436 findings (28 Critical, 99 High)
-- Exploited multiple findings to root: bind shell backdoor (ingreslock/1524), UnrealIRCd 3.2.8.1 backdoor, weak VNC credentials, Apache PHP-CGI argument injection - each paired with remediation notes
-- Ran an OWASP ZAP web app assessment across DVWA, Mutillidae II, TWiki, and phpMyAdmin - 23 findings
-- Executed a full ARP poisoning / MITM lab (Kali between two Windows hosts) using Ettercap, validated live in Wireshark
-- Ran a Nessus vulnerability assessment against a Cisco 3640 in GNS3 - full device-level severity breakdown
-- Ran a Linux hardening audit with Lynis (269 tests, 60/100 hardening index) and traced a malware-delivery-to-C2 sequence from a raw PCAP
-- Built OSINT recon tooling - a username scanner across 840+ platforms, an email-investigation CLI, and subdomain enumeration work that uncovered internal subdomains (sonarqube/vpn/UAT) behind real origin IPs
-- Used AI-assisted offensive tooling (HexStrike AI, pentest-ai) for MCP-driven, natural-language-directed recon and exploitation workflows - strictly in authorized lab environments
-
-**Networking foundation:**
-- Hands-on Cisco IOS labs: subnetting/binary, static & dynamic NAT, standard/extended ACLs, VLANs + inter-VLAN routing, RIP/OSPF/EIGRP/BGP, HSRP/VRRP/GLBP, STP, DHCP, WLC - via GNS3, EVE-NG, and Packet Tracer
-
-<br>
+## 🐍 Contribution Snake
 
 <div align="center">
 
-### my perfect stack
-
-**Detection & SOC**
-
-![Wazuh](https://img.shields.io/badge/Wazuh-161b22?style=for-the-badge&color=161b22)
-![Suricata](https://img.shields.io/badge/Suricata-161b22?style=for-the-badge&color=161b22)
-![Sysmon](https://img.shields.io/badge/Sysmon-161b22?style=for-the-badge&color=161b22)
-![Sigma](https://img.shields.io/badge/Sigma_Rules-161b22?style=for-the-badge&color=161b22)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-161b22?style=for-the-badge&color=161b22)
-
-**Offensive & Recon**
-
-![Metasploit](https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&color=161b22)
-![Burp](https://img.shields.io/badge/Burp_Suite-161b22?style=for-the-badge&color=161b22)
-![Nmap](https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&color=161b22)
-![Nessus](https://img.shields.io/badge/Nessus-161b22?style=for-the-badge&color=161b22)
-![OWASP](https://img.shields.io/badge/OWASP_ZAP-161b22?style=for-the-badge&color=161b22)
-![Ettercap](https://img.shields.io/badge/Ettercap-161b22?style=for-the-badge&color=161b22)
-![Hydra](https://img.shields.io/badge/Hydra-161b22?style=for-the-badge&color=161b22)
-![JohnTheRipper](https://img.shields.io/badge/John_the_Ripper-161b22?style=for-the-badge&color=161b22)
-
-**Forensics & Analysis**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&color=161b22)
-![Lynis](https://img.shields.io/badge/Lynis-161b22?style=for-the-badge&color=161b22)
-
-**Platform & Networking**
-
-![Kali](https://img.shields.io/badge/Kali_Linux-161b22?style=for-the-badge&color=161b22)
-![Cisco](https://img.shields.io/badge/Cisco_IOS-161b22?style=for-the-badge&color=161b22)
-![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&color=161b22)
-![Windows](https://img.shields.io/badge/Windows_Server-161b22?style=for-the-badge&color=161b22)
+<img src="https://raw.githubusercontent.com/Haider-Jamal/Haider-Jamal/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
-<br>
+## 🚀 Featured Projects
 
-## signals
+| Project | Description |
+|---|---|
+| 🔍 Security Toolkit | Security automation and reconnaissance utilities for authorized testing |
+| 🧪 Web Security Lab | Educational web application security experiments |
+| 🐍 Python Automation | Scripts for learning and automating security workflows |
+
+> Replace these examples with your real repositories.
+
+## 📚 Learning & Research
+
+- Web Application Security
+- Network & Protocol Analysis
+- Linux Security
+- Secure Coding
+- Detection & Incident Response
+- Capture The Flag (CTF) Challenges
+
+## 📫 Connect
 
 <div align="center">
 
-<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['SIEM+%26+Detection','Incident+Response','Offensive+%2F+Exploitation','Networking','OSINT+%26+Recon','Forensics'],datasets:[{label:'Skill+Level',data:[8,7,7,8,7,7],backgroundColor:'rgba(0,255,65,0.2)',borderColor:'rgb(0,255,65)',pointBackgroundColor:'rgb(0,255,65)'}]},options:{legend:{display:false},scale:{ticks:{display:false,beginAtZero:true,min:0,max:10,stepSize:2},pointLabels:{fontColor:'%23ffffff',fontSize:11},angleLines:{color:'%23444444'},gridLines:{color:'%23444444'}}}}&backgroundColor=transparent&width=460&height=340&devicePixelRatio=2" alt="Skill radar chart" width="460"/>
-
-<sub>Self-rated, out of 10 - replace the numbers with your own honest read before publishing</sub>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haider-Jamal)
 
 </div>
 
-<br>
-
-## bugs found in the wild
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2600&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=32&lines=Reported+Issue+%2329+in+pentest-ai+(ptai);Reported+Issue+%2335+in+pentest-ai+(ptai)" alt="Bug report typing SVG" />
+```text
+"Security is a process, not a destination."
+```
 
-[![Issue #29](https://img.shields.io/badge/pentest--ai-%2329-161b22?style=for-the-badge&color=161b22)](https://github.com/mango00y/pentest-ai/issues/29)
-[![Issue #35](https://img.shields.io/badge/pentest--ai-%2335-161b22?style=for-the-badge&color=161b22)](https://github.com/mango00y/pentest-ai/issues/35)
-
-</div>
-
-<br>
-
-<div align="center">
-
-`Everything referenced above was performed in isolated, authorized lab environments. No unauthorized targets.`
+⭐ Explore my repositories and follow my learning journey.
 
 </div>

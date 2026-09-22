@@ -1,134 +1,264 @@
-
-<!--
-  GitHub Profile README
-  Author: Haider-Jamal
-  Focus: Cybersecurity / Ethical Hacking
--->
-
 <div align="center">
 
-# `root@haider-jamal:~$ whoami`
+# HAIDER-JAMAL
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=180&section=header&text=HAIDER-JAMAL&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Ethical%20Hacking&descAlignY=55&descSize=18" width="100%"/>
+### `Cybersecurity • Ethical Hacking • Security Research`
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haider-Jamal)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](#)
-[![Profile Views](https://komarev.com/ghpvc/?username=Haider-Jamal&style=for-the-badge&color=238636)](https://github.com/Haider-Jamal)
+[![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](#certification)
+[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haider-Jamal)
 
 </div>
-
-```bash
-┌──(haider㉿kali)-[~]
-└─$ cat about_me.txt
-
-[+] Name       : Haider-Jamal
-[+] Role       : Cybersecurity / Ethical Hacking
-[+] Experience : Intermediate
-[+] Focus      : Offensive Security & Defensive Security
-[+] Mindset    : Learn • Test • Secure
-```
-
-## 🧠 About Me
-
-I'm Haider-Jamal, a cybersecurity enthusiast focused on
-ethical hacking, security testing, and continuous learning.
-
-My interests include understanding how systems work,
-identifying security weaknesses in authorized environments,
-and improving defensive security through practical research.
 
 ```text
-> Explore.
-> Understand.
-> Test responsibly.
-> Secure systems.
+┌──(haider㉿kali)-[~]
+└─$ whoami
+
+  Haider-Jamal
+  Cybersecurity / Ethical Hacking
+  CEH | Security Research | AI Security | Malware Analysis
+
+┌──(haider㉿kali)-[~]
+└─$ cat mission.txt
+
+  Find it. Understand it. Prove it. Fix it.
 ```
 
-## 🎯 Current Focus
+## `> about_me`
 
-- 🔐 Web Application Security
-- 🐧 Linux & System Administration
-- 🌐 Network Security
-- 🐍 Python for Security Automation
-- 🧪 Vulnerability Research & Security Testing
-- 📚 Continuous Cybersecurity Learning
+I'm Haider-Jamal, a cybersecurity practitioner focused on **ethical hacking,
+security research, AI/security testing, malware analysis, and hands-on
+defensive security**.
 
-## 🛠️ Tech Stack
+I learn by building labs, deploying security tooling, investigating real
+software behavior, and documenting findings. My work spans both sides of the
+security problem: understanding how attacks work and translating that knowledge
+into better detection, hardening, and engineering decisions.
 
-### Programming & Scripting
+### What I bring
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- 🔐 **Ethical hacking & vulnerability assessment**
+- 🧠 **Security research and responsible bug discovery**
+- 🤖 **AI-agent security testing**
+- 🦠 **Malware analysis & isolated lab work**
+- 📡 **SOC / monitoring concepts and security telemetry**
+- 🐧 **Linux, networking, and security tooling**
+- 🐍 **Python/Bash automation for security workflows**
 
-### Security & Operating Systems
+---
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+## `> highlights`
 
-### Tools & Platforms
+### 🏅 Certified Ethical Hacker — CEH
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Completed **CEH (Certified Ethical Hacking)** training with a practical,
+hands-on focus covering ethical hacking methodology, network security,
+web application security, system security, vulnerability assessment,
+penetration-testing methodology, and responsible disclosure.
 
-> Update this stack to reflect the tools you actually use.
+> I use the certification as a foundation; the projects below show how I apply
+> that knowledge in practical environments.
 
-## 📊 GitHub Statistics
+### 🌐 God's Eye View — Deployed
 
-<div align="center">
+Deployed **God's Eye View**, a security-focused project demonstrating practical
+deployment and experimentation with security tooling.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Haider-Jamal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+**Skills demonstrated:** deployment • troubleshooting • security tooling •
+practical experimentation
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haider-Jamal&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+### 🤖 AI-Agent Security Research
 
-</div>
+Reported **two findings** in the PTAI AI-agent project:
 
-## 🐍 Contribution Snake
+- **#29**
+- **#35**
 
-<div align="center">
+The important part is the workflow:
 
-<img src="https://raw.githubusercontent.com/Haider-Jamal/Haider-Jamal/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+**observe → reproduce → understand → document → responsibly report**
 
-</div>
+### 🦠 Malware Analysis Lab
 
-## 🚀 Featured Projects
+Built and worked with a **malware-analysis lab environment** for studying
+malicious software behavior in a controlled setting.
 
-| Project | Description |
+Areas of practice include:
+
+- Static analysis
+- Behavioral analysis
+- Process/file/network observation
+- Indicators of compromise
+- Isolation and safe analysis workflows
+- Detection-oriented thinking
+
+> All malware research is performed in controlled, authorized environments.
+
+---
+
+## `> security_capabilities`
+
+| Area | What I work with |
 |---|---|
-| 🔍 Security Toolkit | Security automation and reconnaissance utilities for authorized testing |
-| 🧪 Web Security Lab | Educational web application security experiments |
-| 🐍 Python Automation | Scripts for learning and automating security workflows |
+| 🔴 Offensive Security | Reconnaissance, vulnerability assessment, web security, authorized testing |
+| 🔵 Defensive Security | Monitoring, telemetry, detection concepts, hardening |
+| 🧪 Security Research | Reproduction, analysis, responsible reporting |
+| 🤖 AI Security | AI-agent behavior, security testing, bug discovery |
+| 🦠 Malware Analysis | Static/dynamic analysis in isolated labs |
+| 🌐 Network Security | Protocols, traffic analysis, network attack/defense concepts |
+| 🐧 Linux Security | Linux administration, tooling, security workflows |
+| 🐍 Automation | Python/Bash scripts for repeatable security tasks |
 
-> Replace these examples with your real repositories.
+---
 
-## 📚 Learning & Research
+## `> toolkit`
 
-- Web Application Security
-- Network & Protocol Analysis
-- Linux Security
-- Secure Coding
-- Detection & Incident Response
-- Capture The Flag (CTF) Challenges
+### Security
 
-## 📫 Connect
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596BE)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=39D353)
+
+### Programming & Automation
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+### SOC / Defensive
+
+![Wazuh](https://img.shields.io/badge/Wazuh-0d1117?style=for-the-badge&logoColor=00A9CE)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+> Keep only technologies you actually use.
+
+---
+
+## `> featured_work`
+
+### 🔭 God's Eye View
+**Status:** Deployed
+
+A hands-on security project focused on deployment, experimentation, and
+security-oriented investigation.
+
+**Skills demonstrated:** deployment • troubleshooting • security tooling •
+practical experimentation
+
+---
+
+### 🧬 Malware Analysis Lab
+**Status:** Active / Learning Lab
+
+A controlled environment for safely investigating malware behavior and turning
+observations into actionable security knowledge.
+
+**Skills demonstrated:** malware triage • static analysis • behavioral analysis •
+IOCs • isolation • detection thinking
+
+---
+
+### 🤖 PTAI AI-Agent Research
+**Status:** Security findings reported
+
+Security research involving an AI-agent system, resulting in reported findings
+tracked as **#29** and **#35**.
+
+**Skills demonstrated:** application analysis • adversarial testing •
+reproduction • issue documentation • responsible disclosure
+
+---
+
+### 🛡️ SOC / Wazuh Security Monitoring
+
+Hands-on exploration of security monitoring and SOC workflows using Wazuh and
+related telemetry concepts.
+
+**Skills demonstrated:** log analysis • monitoring • detection concepts •
+security operations
+
+---
+
+## `> proof_of_work`
+
+I prefer showing **evidence over buzzwords**.
+
+This profile is backed by:
+
+- 🏅 CEH certification/training
+- 🌐 A deployed security project
+- 🤖 Documented AI-agent security findings
+- 🦠 A dedicated malware-analysis lab
+- 🛡️ SOC/Wazuh security-monitoring work
+- 🧪 Hands-on security experimentation
+- 📝 Technical learning and research documentation
+
+---
+
+## `> github_stats`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haider-Jamal)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Haider-Jamal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Haider-Jamal GitHub statistics">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haider-Jamal&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Haider-Jamal top languages">
 
 </div>
 
 ---
 
+## `> contribution_activity`
+
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haider-Jamal/Haider-Jamal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haider-Jamal/Haider-Jamal/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Haider-Jamal/Haider-Jamal/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## `> currently_learning`
+
 ```text
-"Security is a process, not a destination."
+[+] Advanced Web Application Security
+[+] AI / Agent Security
+[+] Malware Analysis & Reverse Engineering
+[+] SOC & Detection Engineering
+[+] Network Security
+[+] Security Automation
+[+] Vulnerability Research
 ```
 
-⭐ Explore my repositories and follow my learning journey.
+## `> connect`
+
+If you're working on **cybersecurity, AI security, malware analysis, bug
+hunting, or security research**, I'm interested in learning from others,
+sharing research, and collaborating on legitimate security projects.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haider-Jamal)
+
+<!-- Replace this with your actual LinkedIn URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_URL)
+
+</div>
+
+```text
+┌───────────────────────────────────────────────┐
+│  Learn → Research → Build → Break → Secure   │
+└───────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+**Thanks for visiting. Explore the repositories — the code tells the story.**
 
 </div>

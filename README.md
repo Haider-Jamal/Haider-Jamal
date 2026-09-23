@@ -223,7 +223,7 @@ Hi, I'm Haider - CEH certified out of Corvit, based in Lahore, working across bo
 
 <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['SIEM+%26+Detection','Incident+Response','Offensive+%2F+Exploitation','Networking','OSINT+%26+Recon','Forensics'],datasets:[{label:'Skill+Level',data:[8,7,7,8,7,7],backgroundColor:'rgba(0,255,65,0.2)',borderColor:'rgb(0,255,65)',pointBackgroundColor:'rgb(0,255,65)'}]},options:{legend:{display:false},scale:{ticks:{display:false,beginAtZero:true,min:0,max:10,stepSize:2},pointLabels:{fontColor:'%23ffffff',fontSize:11},angleLines:{color:'%23444444'},gridLines:{color:'%23444444'}}}}&backgroundColor=transparent&width=460&height=340&devicePixelRatio=2" alt="Skill radar chart" width="460"/>
 
-<sub>Self-rated, out of 10 - replace the numbers with your own honest read before publishing</sub>
+
 
 </div>
 

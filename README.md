@@ -122,10 +122,10 @@
     <text x="20" y="256.5" font-size="11.5">Core.OSINT   : Subfinder, dnsenum
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="2.34s" repeatCount="indefinite" fill="freeze"/>
     </text>
-    <text x="20" y="287.5" font-size="11.5">Grid.GitHub  : github.com/mango00y
+    <text x="20" y="287.5" font-size="11.5">Grid.GitHub  : github.com/Haider-Jamal
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="2.7s" repeatCount="indefinite" fill="freeze"/>
     </text>
-    <text x="20" y="303.0" font-size="11.5">Grid.LinkedIn: /in/haider-jamal
+    <text x="20" y="303.0" font-size="11.5">Grid.LinkedIn: /in/haider--jamal
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="2.88s" repeatCount="indefinite" fill="freeze"/>
     </text>
   </g>
@@ -229,7 +229,7 @@ Hi, I'm Haider - CEH certified out of Corvit, based in Lahore, working across bo
 
 <br>
 
-## bugs found in the wild
+## Open-source contributions
 
 <div align="center">
 

@@ -1,461 +1,249 @@
-# Haider Jamal
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=50&lines=Haider+Jamal;Cyber+Security+Engineer;SOC+Analyst+%7C+Blue+Team;Red+Team+%7C+Offensive+Security;CEH+Certified" alt="Typing SVG" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#0d1a0f"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </radialGradient>
+    <linearGradient id="sweepGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff41" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#00ff41" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="400" height="200" fill="url(#bg)"/>
+
+  <!-- radar center -->
+  <g transform="translate(100,100)">
+    <circle r="80" fill="none" stroke="#00ff41" stroke-opacity="0.35" stroke-width="1"/>
+    <circle r="58" fill="none" stroke="#00ff41" stroke-opacity="0.28" stroke-width="1"/>
+    <circle r="34" fill="none" stroke="#00ff41" stroke-opacity="0.22" stroke-width="1"/>
+    <line x1="-80" y1="0" x2="80" y2="0" stroke="#00ff41" stroke-opacity="0.18"/>
+    <line x1="0" y1="-80" x2="0" y2="80" stroke="#00ff41" stroke-opacity="0.18"/>
+
+    <!-- rotating sweep wedge -->
+    <g>
+      <path d="M 0 0 L 80 0 A 80 80 0 0 1 56.6 56.6 Z" fill="url(#sweepGrad)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="3s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- blips -->
+    <circle cx="30" cy="-45" r="3" fill="#00ff41">
+      <animate attributeName="opacity" values="0;1;0" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-55" cy="20" r="3" fill="#00ff41">
+      <animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="45" cy="35" r="3" fill="#00ff41">
+      <animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="1.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="3" fill="#00ff41"/>
+  </g>
+
+  <!-- right-side label block -->
+  <g font-family="Fira Code, monospace" fill="#00ff41">
+    <text x="210" y="40" font-size="13" font-weight="bold">VISUAL.MAP :: THREAT_SCAN</text>
+    <text x="210" y="62" font-size="11" fill="#8b949e">status : sweeping</text>
+    <text x="210" y="80" font-size="11" fill="#8b949e">targets_flagged : 3</text>
+    <text x="210" y="98" font-size="11" fill="#8b949e">mode : soc / blue-team</text>
+    <text x="210" y="150" font-size="10" fill="#444">fps 16000  ·  pltf: remote</text>
+  </g>
+
+  <rect x="0" y="0" width="400" height="200" fill="none" stroke="#00ff41" stroke-opacity="0.25" stroke-width="1"/>
+</svg>
+</td>
+<td width="50%" valign="top" align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 340" width="460" height="340">
+  <defs>
+    <radialGradient id="bg2" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#0d1a0f"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </radialGradient>
+  </defs>
+  <rect width="460" height="340" fill="url(#bg2)"/>
+  <rect x="0" y="0" width="460" height="340" fill="none" stroke="#00ff41" stroke-opacity="0.25" stroke-width="1"/>
+
+  <line x1="0" y1="34" x2="460" y2="34" stroke="#00ff41" stroke-opacity="0.25"/>
+  <text x="14" y="23" font-family="Fira Code, monospace" font-size="13" font-weight="bold" fill="#00ff41">SYSTEM.INFO</text>
+  <circle cx="424" cy="19" r="4" fill="#00ff41">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="434" y="23" font-family="Fira Code, monospace" font-size="10" fill="#00ff41">LIVE</text>
+
+  <g font-family="Fira Code, monospace" fill="#c9d1d9">
+    <text x="20" y="55.0" font-size="11.5">Subject      : Haider Jamal
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="0.0s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="70.5" font-size="11.5">Role         : Cyber Security Engineer
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="0.18s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="86.0" font-size="11.5">               (Blue Team)
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="0.36s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="101.5" font-size="11.5">Origin       : Lahore, PK
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="0.54s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="117.0" font-size="11.5">Status       : Open to roles
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="0.72s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="132.5" font-size="11.5">Cert         : CEH — Completed
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="0.9s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="163.5" font-size="11.5">Core.SIEM    : Wazuh, Sysmon, Suricata
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="1.26s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="179.0" font-size="11.5">Core.Detect  : Sigma, MITRE ATT&amp;CK
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="1.44s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="194.5" font-size="11.5">Core.Offense : Metasploit, ARP/MITM,
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="1.62s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="210.0" font-size="11.5">               Nessus, ZAP
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="1.8s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="225.5" font-size="11.5">Core.Network : Cisco IOS, VLANs, NAT
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="1.98s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="241.0" font-size="11.5">Core.Forensics: Wireshark, PCAP
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="2.16s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="256.5" font-size="11.5">Core.OSINT   : Subfinder, dnsenum
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="2.34s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="287.5" font-size="11.5">Grid.GitHub  : github.com/mango00y
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="2.7s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+    <text x="20" y="303.0" font-size="11.5">Grid.LinkedIn: /in/haider-jamal
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="2.88s" repeatCount="indefinite" fill="freeze"/>
+    </text>
+  </g>
+
+  <line x1="0" y1="310.5" x2="460" y2="310.5" stroke="#00ff41" stroke-opacity="0.25"/>
+  <circle cx="20" cy="324.5" r="4" fill="#00ff41">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.03;0.92;1" dur="14s" begin="3.06s" repeatCount="indefinite" fill="freeze"/>
+  </circle>
+  <text x="32" y="328.5" font-family="Fira Code, monospace" font-size="11.5" fill="#00ff41">ALL SYSTEMS NORMAL</text>
+</svg>
+</td>
+</tr>
+</table>
+
+<div align="center">
 
-<p align="center">
-  <strong>Cybersecurity • Ethical Hacking • SOC • Network Security • Security Research</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=900&height=35&lines=Detecting+what+I+once+had+to+exploit+to+understand;Turning+noisy+logs+into+signal" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/haider--jamal/">LinkedIn</a> •
-  <a href="https://github.com/mango00y">GitHub</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&color=161b22&labelColor=161b22)](https://linkedin.com/in/REPLACE_ME)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&color=161b22&labelColor=161b22)](https://github.com/mango00y)
 
----
+</div>
 
-## `whoami`
+<br>
 
-I'm **Haider Jamal**, a cybersecurity learner building toward a practical **SOC / defensive-security** profile while maintaining strong hands-on exposure to offensive security, vulnerability assessment, network security, OSINT, malware analysis, and security research.
+## This is me :)
 
-My work is lab-driven: I build isolated environments, test attack paths, inspect the evidence, document findings, and connect offensive activity to defensive detection and remediation.
+Hi, I'm Haider - CEH certified out of Corvit, based in Lahore, working across both sides of the fence: I break things in isolated labs so I understand exactly how to detect and stop them.
 
-> **Focus:** `SOC / SIEM` `Detection` `Network Security` `Vulnerability Management` `Pentesting` `Malware Analysis` `OSINT` `Security Research` `AI Security`
+**Blue team / detection work:**
+- Built a home Wazuh + Sysmon + Suricata SOC stack from scratch (Manager, Indexer, Dashboard, multi-agent)
+- Tuned SIEM alert volume from **200 -> 12 alerts/day (94% reduction)** via custom rules and decoder logic, without losing true-positive coverage
+- Wrote a custom Sigma rule to close a LOLBin (Living-off-the-Land Binary) detection gap the default SIEM baseline missed
+- Documented 3 full incident-response cases end-to-end: attack simulation -> Wazuh detection -> MITRE ATT&CK technique mapping -> ticket escalation -> remediation
+- Correlated raw PCAPs against SIEM alerts to validate detections and extract real indicators of compromise (IOCs)
+- Converted OSINT recon findings into a risk-prioritized exposure report, mapped to exploitability and business impact
 
----
+**Red team / offensive work:**
+- Ran a full Nessus vulnerability assessment on Metasploitable2 - 436 findings (28 Critical, 99 High)
+- Exploited multiple findings to root: bind shell backdoor (ingreslock/1524), UnrealIRCd 3.2.8.1 backdoor, weak VNC credentials, Apache PHP-CGI argument injection - each paired with remediation notes
+- Ran an OWASP ZAP web app assessment across DVWA, Mutillidae II, TWiki, and phpMyAdmin - 23 findings
+- Executed a full ARP poisoning / MITM lab (Kali between two Windows hosts) using Ettercap, validated live in Wireshark
+- Ran a Nessus vulnerability assessment against a Cisco 3640 in GNS3 - full device-level severity breakdown
+- Ran a Linux hardening audit with Lynis (269 tests, 60/100 hardening index) and traced a malware-delivery-to-C2 sequence from a raw PCAP
+- Built OSINT recon tooling - a username scanner across 840+ platforms, an email-investigation CLI, and subdomain enumeration work that uncovered internal subdomains (sonarqube/vpn/UAT) behind real origin IPs
+- Used AI-assisted offensive tooling (HexStrike AI, pentest-ai) for MCP-driven, natural-language-directed recon and exploitation workflows - strictly in authorized lab environments
 
-## ⚡ What I Actually Build
+**Networking foundation:**
+- Hands-on Cisco IOS labs: subnetting/binary, static & dynamic NAT, standard/extended ACLs, VLANs + inter-VLAN routing, RIP/OSPF/EIGRP/BGP, HSRP/VRRP/GLBP, STP, DHCP, WLC - via GNS3, EVE-NG, and Packet Tracer
 
-| Area | Hands-on work |
-|---|---|
-| 🛡️ SOC / SIEM | Wazuh Manager/Agent/Indexer/Dashboard, Sysmon telemetry, Suricata IDS/IPS |
-| 🔎 Recon & OSINT | Nmap, Gobuster, Shodan, subdomain discovery, infrastructure research |
-| 🧪 Vulnerability Management | Nessus, OpenVAS/Greenbone, CVE/CWE analysis, CVSS prioritization, remediation |
-| 💥 Controlled Pentesting | Metasploitable2, Metasploit/Meterpreter, service enumeration and validation |
-| 🌐 Web Security | OWASP ZAP, Burp Suite exposure, DVWA, Mutillidae, TWiki, phpMyAdmin |
-| 🕵️ Network Forensics | Wireshark, PCAP analysis, IOC extraction, scan/beaconing/DNS-tunneling indicators |
-| 🐧 Linux Security | Kali Linux, Rocky Linux, Lynis hardening audits |
-| 🌐 Network Engineering | Cisco IOS, routing, switching, VLANs, ACLs, NAT/PAT, HSRP/VRRP/GLBP, GNS3/EVE-NG |
-| 🤖 AI Security | PT-AI / Pentest-AI, HexStrike AI, AI-assisted security-tool orchestration |
+<br>
 
----
+<div align="center">
 
-# 🔥 Featured Security Projects
+### my perfect stack
 
-## 01 — Multi-Sensor Home SOC
-**Wazuh + Windows/Sysmon + Suricata + Kali + Rocky Linux**
+**Detection & SOC**
 
-Built a multi-layer security monitoring lab instead of stopping at a basic SIEM installation.
+![Wazuh](https://img.shields.io/badge/Wazuh-161b22?style=for-the-badge&color=161b22)
+![Suricata](https://img.shields.io/badge/Suricata-161b22?style=for-the-badge&color=161b22)
+![Sysmon](https://img.shields.io/badge/Sysmon-161b22?style=for-the-badge&color=161b22)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-161b22?style=for-the-badge&color=161b22)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-161b22?style=for-the-badge&color=161b22)
 
-- Deployed **Wazuh Manager, Agent, Indexer and Dashboard**
-- Added Windows and Kali telemetry
-- Configured **Windows Sysmon** and integrated its operational telemetry into Wazuh
-- Deployed **Suricata IDS/IPS** on Rocky Linux
-- Forwarded network-security telemetry toward Wazuh
-- Worked with alerting, rules, investigation and detection workflows
-- Designed the lab around an attack → telemetry → detection → investigation → remediation loop
+**Offensive & Recon**
 
-**Security concepts:** SIEM, endpoint telemetry, IDS/IPS, alert triage, IOC analysis, detection engineering
+![Metasploit](https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&color=161b22)
+![Burp](https://img.shields.io/badge/Burp_Suite-161b22?style=for-the-badge&color=161b22)
+![Nmap](https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&color=161b22)
+![Nessus](https://img.shields.io/badge/Nessus-161b22?style=for-the-badge&color=161b22)
+![OWASP](https://img.shields.io/badge/OWASP_ZAP-161b22?style=for-the-badge&color=161b22)
+![Ettercap](https://img.shields.io/badge/Ettercap-161b22?style=for-the-badge&color=161b22)
+![Hydra](https://img.shields.io/badge/Hydra-161b22?style=for-the-badge&color=161b22)
+![JohnTheRipper](https://img.shields.io/badge/John_the_Ripper-161b22?style=for-the-badge&color=161b22)
 
----
+**Forensics & Analysis**
 
-## 02 — Network Forensics & C2 Investigation
-**Wireshark + PCAP analysis**
+![Wireshark](https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&color=161b22)
+![Lynis](https://img.shields.io/badge/Lynis-161b22?style=for-the-badge&color=161b22)
 
-Analyzed controlled-lab packet captures to reconstruct suspicious activity rather than simply looking at individual packets.
+**Platform & Networking**
 
-Documented evidence included:
+![Kali](https://img.shields.io/badge/Kali_Linux-161b22?style=for-the-badge&color=161b22)
+![Cisco](https://img.shields.io/badge/Cisco_IOS-161b22?style=for-the-badge&color=161b22)
+![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&color=161b22)
+![Windows](https://img.shields.io/badge/Windows_Server-161b22?style=for-the-badge&color=161b22)
 
-- HTTP delivery of a Windows PE executable
-- Outbound **TCP/4444** communication consistent with staged C2 behavior
-- A separate PCAP containing **SYN-without-ACK scanning**
-- Periodic **TCP/5555** communication consistent with possible beaconing
-- ~40 high-entropy DNS queries consistent with possible DNS tunneling/data transfer
-- HTTP artifacts and suspicious download/request patterns
-- IOC and detection recommendations based on traffic behavior
+</div>
 
-The work connects packet-level evidence to the SOC question:
+<br>
 
-> **What happened, what evidence proves it, and what should a defender detect?**
+## signals
 
----
+<div align="center">
 
-## 03 — Vulnerability Assessment & Controlled Exploitation
-**Metasploitable 2 + Nessus + Nmap + Metasploit**
+<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['SIEM+%26+Detection','Incident+Response','Offensive+%2F+Exploitation','Networking','OSINT+%26+Recon','Forensics'],datasets:[{label:'Skill+Level',data:[8,7,7,8,7,7],backgroundColor:'rgba(0,255,65,0.2)',borderColor:'rgb(0,255,65)',pointBackgroundColor:'rgb(0,255,65)'}]},options:{legend:{display:false},scale:{ticks:{display:false,beginAtZero:true,min:0,max:10,stepSize:2},pointLabels:{fontColor:'%23ffffff',fontSize:11},angleLines:{color:'%23444444'},gridLines:{color:'%23444444'}}}}&backgroundColor=transparent&width=460&height=340&devicePixelRatio=2" alt="Skill radar chart" width="460"/>
 
-Performed vulnerability assessment and controlled validation against an intentionally vulnerable lab target.
+<sub>Self-rated, out of 10 - replace the numbers with your own honest read before publishing</sub>
 
-A documented Nessus assessment contained:
+</div>
 
-- **436 total findings**
-- **28 Critical**
-- **99 High**
-- **148 Medium**
-- **20 Low**
-- **141 Informational**
+<br>
 
-Selected vulnerabilities were manually validated in the isolated lab, including:
+## bugs found in the wild
 
-- Bind-shell backdoor
-- UnrealIRCd backdoor
-- VNC weak-password exposure
-- Apache PHP-CGI argument-injection/RCE path
+<div align="center">
 
-The reports paired exploitation evidence with remediation guidance rather than treating scanner output alone as proof.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2600&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=32&lines=Reported+Issue+%2329+in+pentest-ai+(ptai);Reported+Issue+%2335+in+pentest-ai+(ptai)" alt="Bug report typing SVG" />
 
----
+[![Issue #29](https://img.shields.io/badge/pentest--ai-%2329-161b22?style=for-the-badge&color=161b22)](https://github.com/mango00y/pentest-ai/issues/29)
+[![Issue #35](https://img.shields.io/badge/pentest--ai-%2335-161b22?style=for-the-badge&color=161b22)](https://github.com/mango00y/pentest-ai/issues/35)
 
-## 04 — Web Application Security Assessment
-**OWASP ZAP + DVWA + Mutillidae + TWiki + phpMyAdmin**
+</div>
 
-Performed a lab web-application assessment using OWASP ZAP.
+<br>
 
-Documented scope included:
+<div align="center">
 
-- DVWA
-- Mutillidae II
-- TWiki
-- phpMyAdmin
-- WebDAV
-- Root web content
-- `sitemap.xml`
-- `robots.txt`
+`Everything referenced above was performed in isolated, authorized lab environments. No unauthorized targets.`
 
-The assessment documented **23 findings**, including examples such as:
-
-- MD5-crypt hash disclosure
-- Missing Content Security Policy
-- Application error disclosure
-- Directory browsing
-- Missing anti-clickjacking protection
-- Security-header/cookie weaknesses
-- Version/banner disclosure
-
----
-
-## 05 — Cisco Network Security & Vulnerability Assessment
-**Cisco IOS + GNS3 + EVE-NG + Nessus**
-
-Built and assessed Cisco lab environments covering:
-
-- Routing and switching
-- VLAN segmentation
-- Inter-VLAN routing
-- ACLs
-- NAT/PAT
-- DHCP
-- RIP / OSPF / EIGRP / BGP concepts
-- HSRP / VRRP / GLBP
-- STP and switching-loop behavior
-- Management-plane security
-
-A Cisco 3640 Nessus assessment documented **88 findings**:
-
-`4 Critical • 45 High • 14 Medium • 2 Low • 23 Informational`
-
-Notable security issues included default SNMP community configuration, unencrypted Telnet, legacy services and unsupported software.
-
----
-
-## 06 — OSINT Reconnaissance — Real-World Domain Analysis
-
-Performed a structured reconnaissance / OSINT exercise around a real-world domain.
-
-Workflow included:
-
-- Domain and subdomain discovery
-- DNS / hosting research
-- Technology fingerprinting
-- Infrastructure and attack-surface mapping
-- Shodan-based exposure research
-- Subdomain enumeration
-- Recon tooling including **Subfinder**
-- `crt.sh` certificate-based discovery
-- Organizing findings into a structured investigation
-
-**Tools / concepts:** OSINT, Subfinder, crt.sh, Shodan, Netcraft, DNS enumeration, attack-surface discovery
-
-> Real-world reconnaissance should always respect authorization, scope and applicable law.
-
----
-
-## 07 — Malware Analysis Lab
-**njRAT / RAT Behavior & Detection Study**
-
-Built an isolated malware-analysis environment using Windows virtual machines.
-
-The lab focused on understanding RAT behavior and the defensive evidence it can generate, including:
-
-- Isolated VM analysis
-- Malware behavior observation
-- Remote-access / C2 concepts
-- Process and network indicators
-- Payload behavior
-- Detection opportunities for endpoint and network telemetry
-
-The work is framed as **controlled malware-analysis / adversary-emulation research**, not production deployment.
-
----
-
-## 08 — ICMP Flood Attack & Defense Lab
-
-Built a controlled lab to study denial-of-service behavior and defensive response.
-
-The project focused on:
-
-- ICMP traffic behavior
-- Flooding concepts
-- Network impact
-- Monitoring and detection
-- Defensive controls
-- Comparing attack traffic with normal traffic
-
-All traffic-generation work belongs in isolated, authorized environments.
-
----
-
-## 09 — AI Pentesting Agent — Setup, Testing & Bug Reporting
-
-Worked with AI-assisted penetration-testing tooling and agentic security workflows.
-
-Documented work includes:
-
-- AI-driven pentesting agent setup
-- Tool/orchestration testing
-- Specialist-agent architecture concepts
-- Security-tool integration
-- Reproducible testing
-- Bug reporting
-
-### Security research contribution
-
-I identified and reported **two reproducible bugs** in the PTAI / AI pentesting-agent project:
-
-- **Issue #29**
-- **Issue #35**
-
-This is an important part of my portfolio because it demonstrates not only tool usage, but also **testing, reproduction, documentation and responsible reporting**.
-
----
-
-## 10 — Wazuh SIEM Deployment — Multi-Agent Detection Lab
-
-Built a dedicated Wazuh deployment on **Rocky Linux** and worked with a multi-agent architecture.
-
-Focus areas:
-
-- Wazuh Manager
-- Agents
-- Indexer
-- Dashboard
-- Windows telemetry
-- Kali telemetry
-- Rocky Linux sensor environment
-- Alert generation
-- Rule configuration
-- Security-event collection
-- Network telemetry integration
-
-This project is part of the larger multi-sensor SOC architecture.
-
----
-
-## 11 — Linux Security Audit
-**Lynis**
-
-Performed a Linux security audit using Lynis.
-
-Documented assessment:
-
-- **269 tests**
-- **1 warning**
-- **49 suggestions**
-- **60/100 hardening index**
-
-Recommendations covered areas such as:
-
-- Fail2ban
-- GRUB protection
-- Password policy
-- PAM controls
-- Package/update management
-- Umask settings
-- Host-hardening controls
-
----
-
-## 12 — OSINT Tooling
-**Aliens Eye + MailAccess**
-
-Worked with OSINT tooling in isolated environments.
-
-### Aliens Eye
-
-- Git-based setup
-- Python virtual environment
-- Username-based OSINT workflows
-- Platform correlation
-- Domain checks
-- Reporting workflow
-
-### MailAccess
-
-- Python virtual environment
-- Email-harvesting workflows
-- Investigation and diagnostic commands
-- Shell integration
-- Troubleshooting and command-path handling
-
----
-
-# 🧪 Security Research & Contributions
-
-### God's Eye View
-
-**God's Eye View** — deployed as a project and included in my security/project portfolio.
-
-### Open-Source Security Research
-
-I have also worked on security testing of open-source / AI security tooling, including reproducible bug discovery and reporting.
-
-**PTAI findings:** `#29` and `#35`
-
----
-
-# 🛠️ Technical Stack
-
-### Security / SOC
-`Wazuh` `Suricata` `Sysmon` `MITRE ATT&CK` `IOC Analysis` `Alert Triage`
-
-### Offensive Security
-`Nmap` `Metasploit` `Meterpreter` `Gobuster` `Hydra` `John the Ripper` `SearchSploit`
-
-### Vulnerability Management
-`Nessus` `OpenVAS/Greenbone` `CVE` `CWE` `CVSS` `Remediation`
-
-### Web Security
-`OWASP ZAP` `Burp Suite` `DVWA` `Mutillidae` `TWiki` `phpMyAdmin`
-
-### Network Security
-`Cisco IOS` `VLANs` `ACLs` `NAT/PAT` `DHCP` `RIP` `OSPF` `EIGRP` `BGP` `STP` `HSRP` `VRRP` `GLBP`
-
-### Forensics
-`Wireshark` `PCAP Analysis` `IOC Extraction` `C2 Analysis` `DNS Analysis`
-
-### Linux / Virtualization
-`Kali Linux` `Rocky Linux` `Lynis` `VMware Workstation` `GNS3` `EVE-NG`
-
-### OSINT
-`Shodan` `Subfinder` `crt.sh` `Aliens Eye` `MailAccess` `Netcraft`
-
-### AI Security
-`PT-AI / Pentest-AI` `HexStrike AI` `AI-assisted security orchestration`
-
----
-
-# 🎓 CEH
-
-**Certified Ethical Hacker (CEH)**
-
-My CEH training covered a practical progression through:
-
-`Networking → Reconnaissance → Enumeration → Vulnerability Analysis → Exploitation → Malware Analysis → Sniffing → Wireless Security → Social Engineering → Web Security → Defensive/SOC concepts`
-
-The documented training was heavily practical, with lab environments, virtual machines, networking exercises and security tooling.
-
----
-
-# 📊 Evidence-Based Portfolio
-
-| Deliverable | Evidence |
-|---|---:|
-| Metasploitable 2 Nessus assessment | 436 findings |
-| Cisco 3640 Nessus assessment | 88 findings |
-| OWASP ZAP web assessment | 23 findings |
-| Lynis Linux audit | 269 tests |
-| PCAP / network-forensics investigation | 409-packet investigation + larger Nessus capture |
-| SOC architecture | Wazuh + Sysmon + Suricata |
-| Controlled exploitation | Metasploitable 2 |
-| Security research | PTAI bugs #29 and #35 |
-| Malware research | njRAT / RAT behavior study |
-| Recon / OSINT | Domain, subdomain, infrastructure and exposure analysis |
-
----
-
-# 🧭 My Security Workflow
-
-```text
-        RECON
-          │
-          ▼
-     ENUMERATION
-          │
-          ▼
-   VULNERABILITY
-      ANALYSIS
-          │
-          ▼
-   CONTROLLED TEST
-          │
-          ▼
-       EVIDENCE
-          │
-          ├──────────────┐
-          ▼              ▼
-     REMEDIATION      DETECTION
-          │              │
-          └──────┬───────┘
-                 ▼
-             INVESTIGATE
-                 │
-                 ▼
-          DOCUMENT / REPORT
-```
-
-I try to go beyond:
-
-> **"I ran the tool."**
-
-and document:
-
-> **"I found it → validated it → captured evidence → understood the impact → considered detection → documented remediation."**
-
----
-
-# 📚 Current Learning Direction
-
-My current direction is increasingly centered around:
-
-- SOC operations
-- Detection engineering
-- Wazuh
-- Sysmon
-- Suricata
-- Network forensics
-- Incident investigation
-- Vulnerability management
-- Windows security
-- Active Directory security
-- MITRE ATT&CK mapping
-- AI-assisted security tooling
-
----
-
-# 🤝 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/haider--jamal/">
-    <img src="https://img.shields.io/badge/LinkedIn-Haider%20Jamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/mango00y">
-    <img src="https://img.shields.io/badge/GitHub-mango00y-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>Build. Break. Detect. Investigate. Improve.</strong>
-</p>
-
-<p align="center">
-  <sub>All offensive-security demonstrations are intended for owned, isolated or explicitly authorized environments.</sub>
-</p>
-
+</div>

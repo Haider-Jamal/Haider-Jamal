@@ -161,7 +161,7 @@ Hi, I'm Haider - CEH certified out of Corvit, based in Lahore, working across bo
 - Wrote a custom Sigma rule to close a LOLBin (Living-off-the-Land Binary) detection gap the default SIEM baseline missed
 - Documented 3 full incident-response cases end-to-end: attack simulation -> Wazuh detection -> MITRE ATT&CK technique mapping -> ticket escalation -> remediation
 - Correlated raw PCAPs against SIEM alerts to validate detections and extract real indicators of compromise (IOCs)
-- Converted OSINT recon findings into a risk-prioritized exposure report, mapped to exploitability and business impact
+- Converted passive OSINT recon on a telecom provider into a risk-prioritized exposure report.
 
 **Red team / offensive work:**
 - Ran a full Nessus vulnerability assessment on Metasploitable2 - 436 findings (28 Critical, 99 High)
